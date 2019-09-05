@@ -1,4 +1,4 @@
-from sklearn import tree;
+from sklearn import tree
 
 # features
 features = [[140, 1], [130, 1], [150, 0], [170, 0]]
